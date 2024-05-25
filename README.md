@@ -1,1 +1,1 @@
-## Restaurant Java App By <a href="https://www.facebook.com/meeraasalam">Meer Salam</a>
+## Restaurant Java App By <a href="https://www.facebook.com/meeraasalam" target="_blank">Meer Salam</a>

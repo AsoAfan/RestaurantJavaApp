@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Restorant_Menu:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e60fbb25-6b19-4119-bf9e-d985a28a9a24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Restorant_Menu_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBQ_chicken2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cheese_Chicken_Wrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dew2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Double_Cheese_Burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fanta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fanta2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Farm_Burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grill kabab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/II.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kabab1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kabab2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Margherita2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mexican.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaImageP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurant_Menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spinn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burger_Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheese burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coca_cola_bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coca_cola_bottle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combo_barground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid9948.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna_Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nugget_combo_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pepsi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pepsi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potato1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potato2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potato_finger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprite2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdminClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Combo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kebab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lasagna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login_in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Potato_finger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Save_data_user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wassl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/water_bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/white.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Wassl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2OvY2lIL4u6kxf6NUsA5eQVNHAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Restorant_Menu/Restorant_Menu/lib/itextpdf-5.5.13.3.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.09225094",
+    "project.structure.side.proportion": "0.1300345",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Restorant_Menu\Restorant_Menu\lib" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60fbb25-6b19-4119-bf9e-d985a28a9a24" name="Changes" comment="" />
+      <created>1682442319385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682442319385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Restorant_Menu_jar$Main.ic" NAME="Main Coverage Results" MODIFIED="1683917952365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

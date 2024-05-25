@@ -1,0 +1,41 @@
+
+CREATE TABLE account (
+  id INT(11) NOT NULL AUTO_INCREMENT,
+  username VARCHAR(50) NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  PRIMARY KEY (id),
+) 
+
+CREATE TABLE menu (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  food_name VARCHAR(50) NOT NULL,
+  food_price FLOAT NOT NULL,
+  food_quantity INT NOT NULL,
+  total_price FLOAT NOT NULL
+);
+
+CREATE TABLE customers (
+    id INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(50) NOT NULL,
+    text TEXT,
+    total_price DECIMAL(10, 2) NOT NULL,
+    admin_name VARCHAR(50),
+    date DATE DEFAULT CURRENT_DATE,
+    PRIMARY KEY (id)
+);
+
+
+/////////////////////////////////////////////////////////////////////////////////
+CREATE TABLE account (
+  id INT(11) NOT NULL AUTO_INCREMENT,
+  username VARCHAR(50) NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (id),
+  UNIQUE KEY (username),
+  UNIQUE KEY (email)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+ama zyadaya --> pewistim bama nya  jga law 3 danayay sarawa 
